@@ -28,7 +28,7 @@ function Necrosis:Localization_Speech_De()
 
 	self.Speech.Rez = {
 		[0] = {
-			"<after>--> <target> hat nun einen Seelenstein aktiv f\195\188r 30 Minuten <--",
+			"<after>--> <target> hat nun einen Seelenstein aktiv f\195\188r 15 Minuten <--",
 		},
 		[1] = {
 			"<after>Solltet Ihr einen Massenselbstmord erw\195\164gen, denkt daran dass <target> sich nun selbst wiederbeleben kann. Alles wird gut werden, auf in den Kampf !",
@@ -48,7 +48,7 @@ function Necrosis:Localization_Speech_De()
 	}
 
 	self.Speech.ShortMessage = {
-		{{"<after>--> <target> hat nun einen Seelenstein aktiv f\195\188r 30 Minuten <--"}},
+		{{"<after>--> <target> hat nun einen Seelenstein aktiv f\195\188r 15 Minuten <--"}},
 		{{"<after><Portal> Ich beschw\195\182re <target>, bitte klickt auf das Tor <Portal>"}},
 		{{"Summoning a Ritual of Souls"}},
 	}
